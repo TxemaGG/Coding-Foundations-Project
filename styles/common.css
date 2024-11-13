@@ -1,0 +1,54 @@
+/* Common styles */
+
+body {
+    margin: 0px;
+    font-family: 'Lato', sans-serif;
+}
+
+/* Page Container Styles */
+
+.page-container {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(61, 60, 60);
+    box-shadow: inset 0px 0px 79px 35px rgba(0, 0, 0, 0.58);
+}
+
+.page-container > .content-wrapper {
+    width: 1300px;
+    margin-left: 50px;
+}
+
+.page-container > .content-wrapper > .lema {
+    text-align:left;
+    margin-left: 680px;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+.page-container > .content-wrapper > .img-wrapper #This {
+    width: 535px;
+    margin: 0px 0px 0px 80px;
+    float: right;
+}
+
+.page-container > .content-wrapper {
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+
+.page-container > .content-wrapper > .text-wrapper {
+    color: rgb(151, 149, 149);
+}
+
+.page-container > .content-wrapper > .text-wrapper > .icon {
+    color: rgb(215, 144, 14);
+    margin-left: 240px;
+    margin-top: -48px;
+    font-size: 1.5em;
+}
+
+.page-container > .content-wrapper > .text-wrapper p {
+    font-size: 1.3em;
+    margin-right: 750px;
+}

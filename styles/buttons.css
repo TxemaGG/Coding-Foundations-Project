@@ -1,0 +1,127 @@
+.navigation-wrapper > .right-column > .left-btn-wrapper > .btn {
+    background-color: rgb(70, 70, 70);
+    color: white;
+    font-size: 1.1em;
+    padding: 10px 25px;
+    border: 1px solid rgb(70, 70, 70);
+    border-radius: 2px;
+    outline: none;
+    transition: 0.3s;
+}
+
+.navigation-wrapper > .right-column > .center-btn-wrapper > .btn {
+    background-color: rgb(70, 70, 70);
+    color: white;
+    font-size: 1.1em;
+    padding: 10px 25px;
+    border: 1px solid rgb(70, 70, 70);
+    border-radius: 2px;
+    outline: none;
+    transition: 0.3s;
+}
+
+.navigation-wrapper > .right-column > .right-btn-wrapper > .btn {
+    background-color: rgb(70, 70, 70);
+    color: white;
+    font-size: 1.1em;
+    padding: 10px 25px;
+    border: 1px solid rgb(70, 70, 70);
+    border-radius: 2px;
+    outline: none;
+    transition: 0.3s;
+}
+
+.navigation-wrapper > .right-column > .left-btn-wrapper > .btn:active {
+    box-shadow: 5px 5px 30px rgba(249, 247, 247, 0.4);
+}
+
+.navigation-wrapper > .right-column > .center-btn-wrapper > .btn:active {
+    box-shadow: 5px 5px 30px rgba(249, 247, 247, 0.4);
+}
+
+.navigation-wrapper > .right-column > .right-btn-wrapper > .btn:active {
+    box-shadow: 5px 5px 30px rgba(249, 247, 247, 0.4);
+}
+
+.page-container > .content-wrapper > .left-btn-wrapper > .btn {
+    background-color: rgb(123, 178, 41);
+    color: black;
+    font-size: 1.5em;
+    padding: 14px 18px;
+    border: 1px solid rgb(123, 178, 41);
+    border-radius: 3px;
+    outline: none;
+    transition: 0.3s;
+    margin-top: -5px;
+}
+
+.page-container > .content-wrapper > .right-btn-wrapper > .btn {
+    background-color: black;
+    color: white;
+    font-size: 1.2em;
+    font-weight: bold;
+    padding: 16px 18px;
+    border: 1px solid black;
+    border-radius: 3px;
+    outline: none;
+    transition: 0.3s;
+    margin-top: 15px;
+}
+
+.page-container > .content-wrapper > .left-btn-wrapper > .btn:active {
+    box-shadow: 5px 5px 30px rgba(249, 247, 247, 0.4);
+}
+
+.page-container > .content-wrapper > .right-btn-wrapper > .btn:active {
+    box-shadow: 5px 5px 30px rgba(249, 247, 247, 0.4);
+}
+
+.footer-bar > .teams > .btn {
+    background-color: rgb(70, 70, 70);
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+    padding: 15px 71px;
+    border: 1px solid rgb(134, 134, 134);
+    border-radius: 2px;
+    outline: none;
+    transition: 0.3s;
+    margin-left: -15.5px;
+}
+
+.footer-bar > .education > .btn {
+    background-color: rgb(70, 70, 70);
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+    padding: 15px 71px;
+    border: 1px solid rgb(134, 134, 134);
+    border-radius: 2px;
+    outline: none;
+    transition: 0.3s;
+}
+
+.footer-bar > .privacy > .btn {
+    background-color: rgb(70, 70, 70);
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+    padding: 15px 71px;
+    border: 1px solid rgb(134, 134, 134);
+    border-radius: 2px;
+    outline: none;
+    transition: 0.3s;
+}
+
+.footer-bar > .writing > .btn {
+    background-color: rgb(70, 70, 70);
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+    padding: 15px 71px;
+    border: 1px solid rgb(134, 134, 134);
+    border-radius: 2px;
+    outline: none;
+    transition: 0.3s;
+    margin-right: -15.5px;
+}

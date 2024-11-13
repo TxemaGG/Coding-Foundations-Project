@@ -1,0 +1,57 @@
+/* Common nav styles */
+
+.navigation-wrapper {
+    height: 75px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 14px;
+}
+
+.navigation-wrapper > .left-column > .banner-image img {
+    width: 200px;
+    height: 100%;
+}
+
+.navigation-wrapper > .center-column {
+    display: flex;
+    align-items: flex-end;
+}
+
+.navigation-wrapper > .center-column > .links-wrapper {
+    display: grid;
+    grid-template-columns: 1fr;
+    font-size: 1.2em;
+    grid-gap: 5px;
+}
+
+.navigation-wrapper > .center-column > .links-wrapper > .explore {
+    color: gold;
+}
+
+.navigation-wrapper > .center-column > .links-wrapper > .navbar {
+    letter-spacing: 2px;
+}
+
+.navigation-wrapper > .center-column > .icon {
+    align-items: flex-end;
+}
+
+.navigation-wrapper > .right-column {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    grid-gap: 25px;
+}
+
+.navigation-wrapper > .right-column > .icon-chevron  {
+    color: rgb(123, 178, 41);
+    font-size: 1.2em;
+}
+
+.navigation-wrapper > .right-column > .icon-glass {
+    color: grey;
+    font-size: 1.6em;
+}
